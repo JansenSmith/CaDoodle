@@ -24,6 +24,6 @@ This workflow suffers from a few fundemental problems
 
 This application is Java based and used BowerStudio as the CAD kernel.
 
+All scripts will be compatible BowlerStudio scripts. 
 
-
-TEXT
+UI will be laid out in SceneBuilder.
