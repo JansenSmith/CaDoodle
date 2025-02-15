@@ -18,7 +18,7 @@ This workflow suffers from a few fundemental problems
 
 1. Web based UI means it is enclosed by whomever runs the server
 2. Subscription model is percarious (Autodesk is not known as a reliable partner for free tools over time)
-3. Propriatary source files
+3. Proprietary source files
 
 # Solution 
 
